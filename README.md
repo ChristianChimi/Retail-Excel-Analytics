@@ -13,10 +13,10 @@ This project focuses on utilizing Microsoft Excel for business intelligence and 
 -  Data was visualized and analyzed using pivot tables and charts to uncover key business insights:
 - Pivot Tables: I created several pivot tables to analyze data across different dimensions:
   - Months: Analyzed trends over time to understand seasonality and sales performance.
-    - Salesman: Compared the performance of different salespeople to identify top performers.
-    - Category: Examined sales by product category to identify high-performing and underperforming categories.
-    - Region: Assessed regional sales performance to identify geographical trends.
-    - Product: Evaluated sales by individual products to identify bestsellers and slow movers.
+  - Salesman: Compared the performance of different salespeople to identify top performers.
+  - Category: Examined sales by product category to identify high-performing and underperforming categories.
+  - Region: Assessed regional sales performance to identify geographical trends.
+  - Product: Evaluated sales by individual products to identify bestsellers and slow movers.
 
 ## **Key Insights**
 - Sales Trends: Analysis of sales across months revealed clear seasonal trends, helping to identify peak sales periods and better plan for demand fluctuations.
