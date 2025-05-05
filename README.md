@@ -5,9 +5,9 @@ This project focuses on utilizing Microsoft Excel for business intelligence and 
 - Creating Tables: The raw data was organized into structured tables for easier analysis and to enable dynamic filtering and referencing.
 - Adding New Columns:
   - Sales: Calculated using the formula [@[Units Sold]]*[@[Unit Price]], providing the total revenue from each product.
-    - Cost: Calculated using [@[Units Sold]]*[@[Unit Cost]], which gives the total cost for each product sold.
-    - Profit: Calculated as [@Sales]-[@Cost], representing the difference between revenue and cost.
-    - Month Extraction: Created a new column to extract the month from the Order Date using the formula MONTH([@[Order Date]]).
+  - Cost: Calculated using [@[Units Sold]]*[@[Unit Cost]], which gives the total cost for each product sold.
+  - Profit: Calculated as [@Sales]-[@Cost], representing the difference between revenue and cost.
+  - Month Extraction: Created a new column to extract the month from the Order Date using the formula MONTH([@[Order Date]]).
 
 ## **Data Visualization**
 -  Data was visualized and analyzed using pivot tables and charts to uncover key business insights:
