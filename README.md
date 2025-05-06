@@ -1,4 +1,5 @@
-## **Retail-Excel-Analytics**
+# **Retail-Excel-Analytics**
+## **Overview**
 This project focuses on utilizing Microsoft Excel for business intelligence and retail analytics. The analysis involves processing tabular data, performing pivot analysis, and creating visualizations to gain insights into sales performance, profitability, and key business trends.
 
 ## **Pre-Processing**
@@ -25,8 +26,8 @@ This project focuses on utilizing Microsoft Excel for business intelligence and 
 - Regional Trends: Sales performance varied across regions, which can inform region-specific marketing strategies and resource allocation to optimize performance.
 - Product Performance: Analysis of individual product sales helped identify bestsellers and slow-moving products, offering insights into inventory management and product promotion strategies.
 
-## **Conclusions**
-This project effectively demonstrates the power of Microsoft Excel for business intelligence and retail analytics. Through the use of pivot tables and charts, key business trends were uncovered, providing valuable insights into sales performance, profitability, and the effectiveness of different sales strategies. Overall, Excel proved to be a robust tool for conducting basic retail analysis and driving data-informed business decisions.
-
  ## **Technologies Used**
  - **Excel**
+
+## **Conclusions**
+This project effectively demonstrates the power of Microsoft Excel for business intelligence and retail analytics. Through the use of pivot tables and charts, key business trends were uncovered, providing valuable insights into sales performance, profitability, and the effectiveness of different sales strategies. Overall, Excel proved to be a robust tool for conducting basic retail analysis and driving data-informed business decisions.
